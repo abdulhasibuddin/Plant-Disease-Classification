@@ -1,0 +1,10 @@
+Test Acc: (99.32%)
+Notebook_PV_Split0.2: Test Acc: 0.9976, AUC (ROC): 0.9999, Test Loss: 1.8892: ep16
+Notebook_PV_Split0.4: Test Acc: 0.9943, AUC (ROC): 0.9996, Test Loss: 2.8474: ep13
+Notebook_PV_Split0.5: Test Acc: 0.9949, AUC (ROC): 0.9996, Test Loss: 2.7557: ep15
+Notebook_PV_Split0.6: Test Acc: 0.9946, AUC (ROC): 0.9994, Test Loss: 2.5638: ep20
+Notebook_PV_Split0.8: Test Acc: 0.9903, AUC (ROC): 0.9992, Test Loss: 3.2325: ep23
+Aerage:               Test Acc: 0.9943
+  
+  
+  
